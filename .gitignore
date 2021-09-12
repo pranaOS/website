@@ -1,1 +1,11 @@
+# system cache
+.DS_Store
+
+# jetbrains cache
+.idea/
+
+#node modules
+node_modules
+
+# vscode cache
 .vscode/
